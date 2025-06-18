@@ -1,0 +1,17 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+env/
+venv/
+*.log
+*.pot
+*.db
+*.sqlite3
+media/
+staticfiles/
+.vscode/
+.env
+*/migrations/__pycache__/
+.DS_Store
+Thumbs.db
